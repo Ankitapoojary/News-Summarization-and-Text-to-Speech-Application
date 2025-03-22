@@ -1,2 +1,12 @@
-# News-Summarization-and-Text-to-Speech-Application
-Automated news analysis tool that fetches articles via Google News RSS, performs sentiment analysis using Natural Language Toolkit (a python library), translates text to Hindi with Google Translator, and generates Hindi speech using Google Text-to-Speech (gTTS). Built with FastAPI.
+---
+title: "News-Summarization-and-Text-to-Speech-Application"
+sdk: "streamlit"
+app_file: "app.py"
+---
+
+# 📰 News Summarization & Text-to-Speech (TTS) Application
+
+## 📌 Project Overview
+This application extracts news related to a company, performs sentiment analysis, and generates a Hindi TTS report.
+
+## 📂 Project Structure

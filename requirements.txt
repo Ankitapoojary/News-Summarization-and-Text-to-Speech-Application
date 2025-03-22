@@ -1,0 +1,8 @@
+streamlit
+nltk
+feedparser
+requests
+gtts
+deep_translator
+pandas
+beautifulsoup4
